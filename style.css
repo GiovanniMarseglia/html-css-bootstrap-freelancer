@@ -1,0 +1,21 @@
+header{
+    background-color: #2C3E50;
+}
+
+
+
+.a{
+    background-color: #1ABC9C;
+}
+
+
+
+hr{
+    border: 2px solid white;
+    width: 100px;
+}
+
+
+.hr_color hr{
+    border: 2px solid black;
+}
