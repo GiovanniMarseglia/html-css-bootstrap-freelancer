@@ -28,6 +28,29 @@ hr{
     border: 2px solid black;
 }
 
+@media only screen and (min-width: 720px) {
+    .z{
+        position: static!important;
+    }
+
+    .navbar{
+        position: static!important;
+    }
+}
 
 
 
+
+.navbar-toggler-icon-bg{
+    color: white;
+}
+
+
+.form-control{
+    border: transparent;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.308);
+}
+
+label{
+    color: rgba(0, 0, 0, 0.658);
+}
